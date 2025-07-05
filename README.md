@@ -39,4 +39,8 @@ We’ll build a model that can classify things (like predicting if a person will
 - Train-Test Split
 - Accuracy Score and Confusion Matrix
 
+- Day 5:
+- NLP Projects
+- Spam Detection
+
 
